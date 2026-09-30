@@ -41,5 +41,5 @@ SVM achieved the highest accuracy: **96.72%**
 6. Visualize results  
 
 ## 👤 Author
-**Adapaka Sai Kishore**  
+**Sai Kishore Adapaka**  
 M.S. Information Systems, University of Memphis
